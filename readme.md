@@ -1,1 +1,2 @@
-"# jikantoki" 
+# ときえのきGithubへようこそ
+hello world!
