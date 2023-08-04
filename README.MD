@@ -3,13 +3,6 @@
 音楽もプログラミングも好きだがバイクも好きだし食えるもんは全部食う精神
 
 ## 何ができる？
-
-YouTube（音楽）  
-[![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8)  
-
-YouTube（電気）  
-[![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw)  
-
 | YouTube音楽 | YouTube電気 |
 |---|---|
 | [![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8) | [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw) |
