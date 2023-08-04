@@ -10,6 +10,10 @@ YouTube（音楽）
 YouTube（電気）  
 [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw)  
 
+| YouTube音楽 | YouTube電気 |
+|---|---|
+| [![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8) | [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw) |
+
 ## Github status
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikantoki&layout=compact&show_icons=true&theme=onedark" />
