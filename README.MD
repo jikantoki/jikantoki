@@ -19,3 +19,13 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikantoki&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jikantoki&theme=onedark&show_icons=ture" />
 </p>
+
+## History
+2003年 生まれる  
+2015年 頃 Aviutl C Bash VBScript Terapad  
+2017年 HSP AndroidROM焼き、TWRP導入、FRP解除 ボカロPとして活動開始  
+2020年 自作Linuxディストリビューション「Caramel OS」公開 WordPress ITパスポート取得 マリオ風ゲーム「Super3」公開 Ubuntu-Server Raspberry-Pi Arduino  
+2021年 個人事業主として届出提出  
+2022年 PHP Javascript JQuery MySQL Apache  
+2023年 自作SNS公開 Node.js Vue Git C# TerapadからVSCodeに乗り換え 中小IT企業内定・学校卒業まで委託扱いで勤務 基本情報技術者取得予定  
+2024年 学生終了な予定
