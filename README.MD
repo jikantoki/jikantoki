@@ -27,5 +27,5 @@
 2020年 自作Linuxディストリビューション「Caramel OS」公開 WordPress ITパスポート取得 マリオ風ゲーム「Super3」公開 Ubuntu-Server Raspberry-Pi Arduino  
 2021年 個人事業主として届出提出  
 2022年 PHP Javascript JQuery MySQL Apache  
-2023年 自作SNS公開 Node.js Vue Git C# TerapadからVSCodeに乗り換え 中小IT企業内定・学校卒業まで委託扱いで勤務 基本情報技術者取得予定  
+2023年 自作SNS公開 Node.js Vue Git C# TerapadからVSCodeに乗り換え 中小IT企業で働き始める 基本情報技術者取得予定  
 2024年 学生終了な予定
