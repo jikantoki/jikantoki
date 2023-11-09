@@ -7,6 +7,8 @@
 |---|---|
 | [![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8) | [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw) |
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/11HMsIAhwcU4gw8xZCMNIj?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## My Website
 * ホームページ https://enoki.xyz
 * Twitter https://enoki.xyz/twitter
