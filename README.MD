@@ -8,8 +8,6 @@
 | [![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8) | [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw) |
 
 ![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jikantoki)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jikantoki&theme=dark)  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/11HMsIAhwcU4gw8xZCMNIj?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## My Website
 * ホームページ https://enoki.xyz
@@ -19,6 +17,11 @@
 * マリオみたいなゲーム https://github.com/jikantoki/super3
 
 ## Github status
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jikantoki&theme=dark)  
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jikantoki&theme=dark" />
+  <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jikantoki&theme=dark" />
+</p>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikantoki&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jikantoki&theme=onedark&show_icons=ture" />
