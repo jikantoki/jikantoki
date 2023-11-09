@@ -7,8 +7,6 @@
 |---|---|
 | [![YouTube音楽](http://img.youtube.com/vi/MnpR0V_jJj8/0.jpg)](https://www.youtube.com/watch?v=MnpR0V_jJj8) | [![YouTube音楽](http://img.youtube.com/vi/jTjxiQ4HtVw/0.jpg)](https://www.youtube.com/watch?v=jTjxiQ4HtVw) |
 
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jikantoki)  
-
 ## My Website
 * ホームページ https://enoki.xyz
 * Twitter https://enoki.xyz/twitter
@@ -26,6 +24,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikantoki&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jikantoki&theme=onedark&show_icons=ture" />
 </p>
+![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jikantoki)  
 
 ## History
 2003年 生まれる  
