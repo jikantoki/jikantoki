@@ -11,21 +11,22 @@
 
 ## My Websites & My Apps
 
-- ホームページ https://enoki.xyz
-- Twitter https://enoki.xyz/twitter
-- 自作 SNS https://ec.enoki.xyz
-- 個人事業主向け報酬管理 https://uber.enoki.xyz
-- マリオみたいなゲーム https://github.com/jikantoki/super3
+- ホームページ <https://enoki.xyz>
+- Twitter <https://enoki.xyz/twitter>
+- 自作 SNS <https://ec.enoki.xyz>
+- 個人事業主向け報酬管理 <https://uber.enoki.xyz>
+- マリオみたいなゲーム <https://github.com/jikantoki/super3>
+- パチンコみたいなゲーム <https://github.com/jikantoki/yukkuri-monogatari>
 
 ## Github status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jikantoki&theme=dark)
 
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jikantoki&theme=dark" />
   <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jikantoki&theme=dark" />
 </p>
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikantoki&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jikantoki&theme=onedark&show_icons=ture" />
 </p>
