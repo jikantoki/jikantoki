@@ -13,8 +13,9 @@
 
 - ホームページ <https://enoki.xyz>
 - Twitter <https://enoki.xyz/twitter>
-- 自作 SNS <https://ec.enoki.xyz>
+- 自作 SNS <https://wave.enoki.xyz>
 - 個人事業主向け報酬管理 <https://uber.enoki.xyz>
+- Android 音楽プレイヤーアプリ <https://dopamine.enoki.xyz>
 - マリオみたいなゲーム <https://github.com/jikantoki/super3>
 - パチンコみたいなゲーム <https://github.com/jikantoki/yukkuri-monogatari>
 
@@ -43,3 +44,4 @@
 2022 年 PHP Javascript JQuery MySQL Apache  
 2023 年 自作 SNS 公開 Node.js Vue Git C# Terapad から VSCode に乗り換え 中小 IT 企業で働き始める  
 2024 年 学生終了、結局フリーのギグワーカーになる（後に個人事業主として某企業に所属）
+2024 年 夏 業務委託で某社に所属
