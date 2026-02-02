@@ -1,4 +1,4 @@
-# ときえのき Github へようこそ
+# エノキ電気（ときえのき） の Github へようこそ
 
 これは、趣味で音楽を作っている人がプログラミングをやってみた記録です。
 音楽もプログラミングも好きだがバイクも好きだし食えるもんは全部食う精神
@@ -12,8 +12,9 @@
 ## My Websites & My Apps
 
 - ホームページ <https://enoki.xyz>
+- Google Play Store <https://play.google.com/store/apps/dev?id=8940000495375956936&hl=ja>
 - Twitter <https://enoki.xyz/twitter>
-- 自作 SNS <https://wave.enoki.xyz>
+- 自作 SNS <https://ec.enoki.xyz>
 - 個人事業主向け報酬管理 <https://uber.enoki.xyz>
 - Android 音楽プレイヤーアプリ <https://dopamine.enoki.xyz>
 - マリオみたいなゲーム <https://github.com/jikantoki/super3>
@@ -45,3 +46,4 @@
 2023 年 自作 SNS 公開 Node.js Vue Git C# Terapad から VSCode に乗り換え 中小 IT 企業で働き始める  
 2024 年 学生終了、結局フリーのギグワーカーになる（後に個人事業主として某企業に所属）
 2024 年 夏 業務委託で某社に所属
+2026 年 Google Play Storeでの配信を開始
