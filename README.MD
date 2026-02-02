@@ -33,7 +33,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=jikantoki&theme=onedark&show_icons=ture" />
 </p>
 
-![](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jikantoki)
+![stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=jikantoki)
 
 ## History
 
