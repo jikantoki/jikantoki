@@ -22,7 +22,7 @@
 
 ## Github status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jikantoki&theme=dark)
+![result](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jikantoki&theme=dark)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jikantoki&theme=dark" />
