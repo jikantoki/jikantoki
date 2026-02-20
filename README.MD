@@ -105,10 +105,8 @@
 |:---|:---|:---|
 | 🎰 [yukkuri-monogatari](https://github.com/jikantoki/yukkuri-monogatari) | パチンコ風ゲーム | HSP |
 | 🍄 [super3](https://github.com/jikantoki/super3) | スーパーマリオ風ゲーム（高校卒業制作） | HSP |
-| 🕐 [timegadget](https://github.com/jikantoki/timegadget) | Windows 用デスクトップ時計ガジェット | C++ |
-| 📝 [easynote](https://github.com/jikantoki/easynote) | 超シンプルなメモ帳 | - |
-| 📋 [tasc](https://github.com/jikantoki/tasc) | シンプルなタスク管理ソフト | Vue / Node.js |
-| 💳 [wallet-wallet](https://github.com/jikantoki/wallet-wallet) | クレジットカード番号管理ツール | Vue |
+| 🕐 [timegadget](https://github.com/jikantoki/timegadget) | Windows 用デスクトップ時計ガジェット | HSP |
+| 📝 [easynote](https://github.com/jikantoki/easynote) | 超シンプルなメモ帳 | HSP |
 
 ### 🌐 Web
 
@@ -117,14 +115,16 @@
 | 🏠 [jikantoki-appcenter](https://enoki.xyz) | ENOKI Appcenter ― アプリ配布ストア兼ホームページ | Nuxt / TypeScript |
 | 💬 [Markdown_SNS](https://ec.enoki.xyz) | マークダウンで投稿できる自作 SNS | PHP |
 | 💰 [uber_utility](https://uber.enoki.xyz) | 個人事業主向け報酬管理サービス | Vue |
-| 🎬 [VueTube](https://github.com/jikantoki/VueTube) | 動画ストリーミングプレイヤー | Vue / PHP |
 | 🎵 [wave](https://github.com/jikantoki/wave) | 音楽共有機能付き SNS | Vue |
-| 🎮 [livehouse](https://github.com/jikantoki/livehouse) | ブラウザで遊べる音楽ゲーム（音ゲー） | Vue |
-| 🚫 [Twitter_No_Spam](https://github.com/jikantoki/Twitter_No_Spam) | Twitter スパムを排除する Chrome 拡張機能 | JavaScript |
 | ▶️ [youtube-downloader](https://github.com/jikantoki/youtube-downloader) | YouTube 動画をダウンロードできる Web サイト | HTML |
 | 🛒 [OpenEC](https://github.com/jikantoki/OpenEC) | 誰でも EC サイトが作れるフレームワーク | - |
 | 🔗 [jumpserver](https://github.com/jikantoki/jumpserver) | 別サーバー情報中継 / ポートフォワーディング | PHP |
-| 📰 [wordpress-viewer](https://github.com/jikantoki/wordpress-viewer) | WordPress ブログをニュースアプリ形式で閲覧 | Vue |
+
+### 🧩 ブラウザ MOD・拡張機能
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🚫 [Twitter_No_Spam](https://github.com/jikantoki/Twitter_No_Spam) | Twitter スパムを排除する Chrome 拡張機能 | JavaScript |
 
 ### 📱 スマホアプリ（Android）
 
@@ -134,6 +134,9 @@
 | 🗺️ [Nomad-Pulse](https://github.com/jikantoki/Nomad-Pulse) | 位置情報記録・共有アプリ | Vue / Capacitor |
 | 💳 [wallet-wallet](https://github.com/jikantoki/wallet-wallet) | クレジットカード番号管理アプリ | Vue / Capacitor |
 | 🎶 [jikantokiMusicPlayer](https://github.com/jikantoki/jikantokiMusicPlayer) | ときえのきの楽曲が聴けるアプリ | Vue |
+| 🎬 [VueTube](https://github.com/jikantoki/VueTube) | 動画ストリーミングプレイヤーアプリ | Vue / Capacitor |
+| 🎮 [livehouse](https://github.com/jikantoki/livehouse) | 音楽ゲーム（音ゲー）アプリ | Vue / Capacitor |
+| 📰 [wordpress-viewer](https://github.com/jikantoki/wordpress-viewer) | WordPress ブログをニュースアプリ形式で閲覧 | Vue / Capacitor |
 | 📦 [Vue-Android-APK-Template](https://github.com/jikantoki/Vue-Android-APK-Template) | Vue.js で Android アプリを作るテンプレート | Vue / Capacitor |
 
 ### 🐧 Linux / OS
