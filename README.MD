@@ -73,6 +73,7 @@
 ### その他言語・ツール
 
 <p>
+  <img src="https://img.shields.io/badge/HSP-CC2222?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMCA0SDRjLTEuMSAwLTIgLjktMiAydjEyYzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnpNOSAxM0g3di0yaDJ2MnptMC00SDdWN2gydjJ6bTQgNGgtMnYtMmgydjJ6bTAtNGgtMlY3aDJ2MnptNCA0aC0ydi0yaDJ2MnptMC00aC0yVjdoMnYyeiIvPjwvc3ZnPg==&logoColor=white" alt="HSP"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -87,20 +88,73 @@
 
 ---
 
-## 🚀 注目プロジェクト
+## 🖥️ プラットフォーム別プロジェクト
 
-| プロジェクト | 説明 | 技術 |
+### Windows（CUI）
+
+| プロジェクト | 説明 | 言語 |
 |:---|:---|:---|
-| ⭐ [Markdown_SNS](https://github.com/jikantoki/Markdown_SNS) | マークダウンで投稿できる自作 SNS | PHP |
-| 🎮 [super3](https://github.com/jikantoki/super3) | 高校卒業制作で作ったマリオ風ゲーム | AngelScript |
-| 🚫 [Twitter_No_Spam](https://github.com/jikantoki/Twitter_No_Spam) | Twitter スパムを排除する Chrome 拡張機能 | JavaScript |
-| 🎵 [dopamine](https://github.com/jikantoki/dopamine) | Android 向け音楽プレイヤーアプリ | Vue / Capacitor |
-| 🎰 [yukkuri-monogatari](https://github.com/jikantoki/yukkuri-monogatari) | Windows 向けパチンコゲーム | AngelScript |
-| 📱 [Vue-Android-APK-Template](https://github.com/jikantoki/Vue-Android-APK-Template) | Vue.js で Android ネイティブアプリを作るテンプレート | Vue / Capacitor |
-| 🗺️ [Nomad-Pulse](https://github.com/jikantoki/Nomad-Pulse) | 位置情報記録・共有アプリ | Vue / PHP |
+| 🔧 [E-compiler](https://github.com/jikantoki/E-compiler) | 独自の E 言語コンパイラ | C |
+| 📁 [nichiji_koushin](https://github.com/jikantoki/nichiji_koushin) | ファイルの更新日時・アクセス時刻を現在時刻に変更 | Bash |
+| 🔢 [Matrix-walking](https://github.com/jikantoki/Matrix-walking) | 行列探索の授業課題を改変 | C |
+| 📝 [CUInote](https://github.com/jikantoki/CUInote) | 高校の授業で作ったメモ帳 | C |
+
+### Windows（GUI）
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🎰 [yukkuri-monogatari](https://github.com/jikantoki/yukkuri-monogatari) | パチンコ風ゲーム | HSP |
+| 🍄 [super3](https://github.com/jikantoki/super3) | スーパーマリオ風ゲーム（高校卒業制作） | HSP |
+| 🕐 [timegadget](https://github.com/jikantoki/timegadget) | Windows 用デスクトップ時計ガジェット | C++ |
+| 📝 [easynote](https://github.com/jikantoki/easynote) | 超シンプルなメモ帳 | - |
 | 📋 [tasc](https://github.com/jikantoki/tasc) | シンプルなタスク管理ソフト | Vue / Node.js |
+| 💳 [wallet-wallet](https://github.com/jikantoki/wallet-wallet) | クレジットカード番号管理ツール | Vue |
+
+### 🌐 Web
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🏠 [jikantoki-appcenter](https://enoki.xyz) | ENOKI Appcenter ― アプリ配布ストア兼ホームページ | Nuxt / TypeScript |
+| 💬 [Markdown_SNS](https://ec.enoki.xyz) | マークダウンで投稿できる自作 SNS | PHP |
+| 💰 [uber_utility](https://uber.enoki.xyz) | 個人事業主向け報酬管理サービス | Vue |
 | 🎬 [VueTube](https://github.com/jikantoki/VueTube) | 動画ストリーミングプレイヤー | Vue / PHP |
-| 🏠 [jikantoki-appcenter](https://github.com/jikantoki/jikantoki-appcenter) | エノキ電気ホームページ | Nuxt / TypeScript |
+| 🎵 [wave](https://github.com/jikantoki/wave) | 音楽共有機能付き SNS | Vue |
+| 🎮 [livehouse](https://github.com/jikantoki/livehouse) | ブラウザで遊べる音楽ゲーム（音ゲー） | Vue |
+| 🚫 [Twitter_No_Spam](https://github.com/jikantoki/Twitter_No_Spam) | Twitter スパムを排除する Chrome 拡張機能 | JavaScript |
+| ▶️ [youtube-downloader](https://github.com/jikantoki/youtube-downloader) | YouTube 動画をダウンロードできる Web サイト | HTML |
+| 🛒 [OpenEC](https://github.com/jikantoki/OpenEC) | 誰でも EC サイトが作れるフレームワーク | - |
+| 🔗 [jumpserver](https://github.com/jikantoki/jumpserver) | 別サーバー情報中継 / ポートフォワーディング | PHP |
+| 📰 [wordpress-viewer](https://github.com/jikantoki/wordpress-viewer) | WordPress ブログをニュースアプリ形式で閲覧 | Vue |
+
+### 📱 スマホアプリ（Android）
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🎵 [dopamine](https://dopamine.enoki.xyz) | 音楽プレイヤーアプリ | Vue / Capacitor |
+| 🗺️ [Nomad-Pulse](https://github.com/jikantoki/Nomad-Pulse) | 位置情報記録・共有アプリ | Vue / Capacitor |
+| 💳 [wallet-wallet](https://github.com/jikantoki/wallet-wallet) | クレジットカード番号管理アプリ | Vue / Capacitor |
+| 🎶 [jikantokiMusicPlayer](https://github.com/jikantoki/jikantokiMusicPlayer) | ときえのきの楽曲が聴けるアプリ | Vue |
+| 📦 [Vue-Android-APK-Template](https://github.com/jikantoki/Vue-Android-APK-Template) | Vue.js で Android アプリを作るテンプレート | Vue / Capacitor |
+
+### 🐧 Linux / OS
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🍬 [Caramel OS](https://caramelos.xyz) | 自作 Linux ディストリビューション（配布中） | Shell |
+| 🚀 [CaramelLauncher](https://github.com/jikantoki/CaramelLauncher) | Caramel OS 向けランチャー | Shell |
+
+### 🍓 Raspberry Pi / 組み込み
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🚃 [jr_hassha](https://github.com/jikantoki/jr_hassha) | Raspberry Pi で JR 発車メロディーを再生 | Bash |
+| 🎧 [raspberry-car-audio](https://github.com/jikantoki/raspberry-car-audio) | Raspberry Pi を使ったカーオーディオ | PHP |
+
+### 🎮 ゲーム Mod
+
+| プロジェクト | 説明 | 言語 |
+|:---|:---|:---|
+| 🎵 [CS_Music](https://github.com/jikantoki/CS_Music) | Cities: Skylines で自分の楽曲を再生できる Mod | C# |
 
 ---
 
@@ -108,7 +162,9 @@
 
 | サービス | URL |
 |:---|:---|
-| 🏠 ホームページ | <https://enoki.xyz> |
+| 🏠 ホームページ・経歴・事業内容 | <https://enoki.xyz> |
+| 📝 ブログ（ノウハウ集） | <https://blog.caramelos.xyz> |
+| 🍬 Caramel OS（Linux 配布） | <https://caramelos.xyz> |
 | 🎵 Android 音楽プレイヤー | <https://dopamine.enoki.xyz> |
 | 💬 自作 SNS | <https://ec.enoki.xyz> |
 | 💰 個人事業主向け報酬管理 | <https://uber.enoki.xyz> |
@@ -135,12 +191,12 @@
 
 | 年 | 出来事 |
 |:---|:---|
-| 2003 | 生まれる 👶 |
-| 2015 頃 | プログラミング入門（Aviutl / C / Bash / VBScript） |
-| 2017 | HSP 学習 / Android ROM カスタム（TWRP・FRP 解除）/ **ボカロ P「ときえのき」として活動開始** 🎵 |
-| 2020 | 自作 Linux ディストリビューション「Caramel OS」公開 🐧 / WordPress / IT パスポート取得 / マリオ風ゲーム「Super3」公開 / Ubuntu Server・Raspberry Pi・Arduino |
-| 2021 | 個人事業主として届出提出 📝 |
-| 2022 | PHP / JavaScript / jQuery / MySQL / Apache を習得 |
-| 2023 | 自作 SNS 公開 / Node.js / Vue.js / Git / C# / VSCode に移行 / 中小 IT 企業で勤務開始 💼 |
-| 2024 | 学業終了 → フリーランス → 個人事業主として業務委託で某社に所属 🚀 |
-| 2026 | Google Play Store でアプリ配信開始 📱 |
+| 2003 | • 生まれる 👶 |
+| 2015 頃 | • プログラミング入門<br>• Aviutl / C / Bash / VBScript |
+| 2017 | • HSP 学習<br>• Android ROM カスタム（TWRP 導入・FRP 解除）<br>• **ボカロ P「ときえのき」として活動開始** 🎵 |
+| 2020 | • 自作 Linux ディストリビューション「**[Caramel OS](https://caramelos.xyz)**」公開 🐧<br>• WordPress 習得<br>• **IT パスポート取得**<br>• マリオ風ゲーム「**Super3**」公開 🎮<br>• Ubuntu Server / Raspberry Pi / Arduino |
+| 2021 | • 個人事業主として届出提出 📝 |
+| 2022 | • PHP / JavaScript / jQuery / MySQL / Apache を習得 |
+| 2023 | • 自作 SNS 公開<br>• Node.js / Vue.js / Git / C# を習得<br>• Terapad から VSCode に移行<br>• 中小 IT 企業で勤務開始 💼 |
+| 2024 | • 学業終了<br>• フリーランス → 個人事業主として業務委託で某社に所属 🚀 |
+| 2026 | • Google Play Store でアプリ配信開始 📱 |
